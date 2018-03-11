@@ -1,2 +1,2 @@
-# RBAC-kubernetes-aws
-Configuring RBAC in a Kubernetes Cluster
+# RBAC-Kubernetes-Helm
+Configuring RBAC in a Kubernetes Cluster with Helm
