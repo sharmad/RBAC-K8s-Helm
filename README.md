@@ -1,2 +1,1 @@
-# Configuring RBAC in a Kubernetes Cluster with Helm
-
+# Configuring RBAC Authorization in a Kubernetes Cluster with Helm
