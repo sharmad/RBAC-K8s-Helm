@@ -1,0 +1,6 @@
+metadata:
+  name: rbac-test
+  labels:
+    k8s-app: rbac-test
+    kubernetes.io/cluster-service: "true"
+    addonmanager.kubernetes.io/mode: Reconcile
